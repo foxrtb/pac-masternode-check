@@ -16,7 +16,12 @@ sudo pip install pushbullet-cli
 ```
 
 ### Install
-download the script, edit your <VIM TX> number...
+```
+$ wget https://raw.githubusercontent.com/foxrtb/pac-masternode-check/master/mn-check.sh
+$ chmod +x mn-check.sh
+$ sudo cp mn-check.sh /usr/local/bin/
+```
+edit the file and change  <VIM TX> number...
   
 
 ### enter your pushullet API KEY
