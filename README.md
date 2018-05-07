@@ -1,6 +1,6 @@
 ## $PAC Masternode Health Check
 
-Small tool which checks your masternode health, and send a pushullet notification on your mobile, if:
+Small tool which checks your masternode health, and send a (pushullet)[https://www.pushbullet.com/] notification on your mobile, if:
 * paccoind stops working
 * Masternode is not in `ENABLE` state anymore
 * Sentinel Log has new entries (it shouldn't)
