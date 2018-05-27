@@ -7,7 +7,7 @@
 MN="Masternode-1"
 MNVIN="<vim tx number>"
 sentime=`stat -c %Y $HOME/sentinel/sentinel-cron.log`
-nowtime=`date -d "now - 2 hours"  +%s`
+nowtime=`date -d "now - 30 minutes"  +%s`
 
 
 
