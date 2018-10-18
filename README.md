@@ -4,6 +4,7 @@ Small tool which checks your masternode health, and send a [pushullet](https://w
 * paccoind stops working
 * Masternode is not in `ENABLE` state anymore
 * Sentinel Log has new entries (it shouldn't)
+* Disk Space in use is higher than 75%
 
 
 
